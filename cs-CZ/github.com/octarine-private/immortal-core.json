@@ -1,16 +1,16 @@
 {
-	"LocationX_LOCATION": "MÍSTO",
-	"LocationX_TOP": "MAPO",
+	"LocationX_LOCATION": "LOCATION",
+	"LocationX_TOP": "TOP",
 	"LocationX_MID": "MID",
 	"LocationX_BOT": "BOT",
 	"LocationX_JUNGLE": "JUNGLE",
-	"LocationX_River_TOP": "řeka TOP",
-	"LocationX_River_MID": "řeka MID",
+	"LocationX_River_TOP": "River TOP",
+	"LocationX_River_MID": "River MID",
 	"LocationX_River_BOT": "River BOT",
-	"LocationX_ROSHAN": "RUMUNSKO",
+	"LocationX_ROSHAN": "ROSHAN",
 	"LocationX_BASE": "BASE",
-	"LocationX_UNKNOWN": "NEZNÁMÝ",
+	"LocationX_UNKNOWN": "UNKNOWN",
 	"LocationX_Radiant": "Radiant",
 	"LocationX_Dire": "Dire",
-	"LocationX_Outpost": "Předsunutá základna"
+	"LocationX_Outpost": "Outpost"
 }
