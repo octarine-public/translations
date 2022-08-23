@@ -1,0 +1,20 @@
+{
+	"ItemPanel_KeyMode": "Режим бинда",
+	"ItemPanel_Key": "Бинд",
+	"ItemPanel_Keys": "Бинды",
+	"ItemPanel_EmptySlot": "Показать пустые слоты",
+	"ItemPanel_Charge_State": "Количество зарядов",
+	"ItemPanel_Cooldwn_State": "Время перезарядки",
+	"ItemPanel_PingClick2": "Оповещения",
+	"ItemPanel_Drag": "< Перенести >",
+	"Ally": "Союзники",
+	"Item Panel": "Панель предметов",
+	"Backpack": "Рюкзак",
+	"Hold key": "Удерживать",
+	"Toggled": "Переключать",
+	"Key bind turn on/off panel": "Клавиша бинда на включение и выключение панели",
+	"Hide items": "Скрыть предметы",
+	"Couriers": "Курьеры",
+	"Cooldown format time": "Формат времени кулдауна",
+	"Show cooldown format time (min:sec)": "Показывать время в формате (мин:сек)"
+}
