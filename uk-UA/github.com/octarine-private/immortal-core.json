@@ -1,0 +1,16 @@
+{
+	"LocationX_LOCATION": "ЛОКАЦІЯ",
+	"LocationX_TOP": "ВЕРХ",
+	"LocationX_MID": "ЦЕНТР",
+	"LocationX_BOT": "НИЗ",
+	"LocationX_JUNGLE": "ЛІС",
+	"LocationX_River_TOP": "Річка ТОП",
+	"LocationX_River_MID": "Річка МІД",
+	"LocationX_River_BOT": "Річка БОТ",
+	"LocationX_ROSHAN": "РОШАН",
+	"LocationX_BASE": "БАЗА",
+	"LocationX_UNKNOWN": "НЕВІДОМО",
+	"LocationX_Radiant": "Сяйво",
+	"LocationX_Dire": "Пітьма",
+	"LocationX_Outpost": "Аванпост"
+}
