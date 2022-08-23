@@ -1,0 +1,20 @@
+{
+	"ItemPanel_KeyMode": "Bind mode",
+	"ItemPanel_Key": "Bind",
+	"ItemPanel_Keys": "Vázání",
+	"ItemPanel_EmptySlot": "Zobrazit prázdné sloty",
+	"ItemPanel_Charge_State": "Zobrazit poplatky",
+	"ItemPanel_Cooldwn_State": "Zobrazit rozvržení",
+	"ItemPanel_PingClick2": "Ping při kliknutí",
+	"ItemPanel_Drag": "< přetažení >",
+	"Ally": "Vždyť",
+	"Item Panel": "Panel položek",
+	"Backpack": "Balíček baterek",
+	"Hold key": "Držet klíč",
+	"Toggled": "Toggled",
+	"Key bind turn on/off panel": "Klávesová zkratka zapnout/vypnout panel",
+	"Hide items": "Skrýt položky",
+	"Couriers": "Kurýry",
+	"Cooldown format time": "Formát zmenšení",
+	"Show cooldown format time (min:sec)": "Zobrazit čas ve formátu přehledu (min:s)"
+}
