@@ -1,16 +1,16 @@
 {
-	"LocationX_LOCATION": "LOKACJA",
-	"LocationX_TOP": "PT",
+	"LocationX_LOCATION": "LOCATION",
+	"LocationX_TOP": "TOP",
 	"LocationX_MID": "MID",
 	"LocationX_BOT": "BOT",
-	"LocationX_JUNGLE": "DŻUNGLI",
-	"LocationX_River_TOP": "Rzeka TOP",
-	"LocationX_River_MID": "Rzeka MID",
+	"LocationX_JUNGLE": "JUNGLE",
+	"LocationX_River_TOP": "River TOP",
+	"LocationX_River_MID": "River MID",
 	"LocationX_River_BOT": "River BOT",
-	"LocationX_ROSHAN": "ROSJA",
-	"LocationX_BASE": "BAZA",
-	"LocationX_UNKNOWN": "NIEZGODNOŚĆ",
-	"LocationX_Radiant": "Świetlica",
-	"LocationX_Dire": "Mroczni",
-	"LocationX_Outpost": "Posterunek"
+	"LocationX_ROSHAN": "ROSHAN",
+	"LocationX_BASE": "BASE",
+	"LocationX_UNKNOWN": "UNKNOWN",
+	"LocationX_Radiant": "Radiant",
+	"LocationX_Dire": "Dire",
+	"LocationX_Outpost": "Outpost"
 }
