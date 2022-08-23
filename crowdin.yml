@@ -1,0 +1,5 @@
+files:
+  - source: /en-US/github.com/octarine-private/*.json
+    translation: /%locale%/github.com/octarine-private/%original_file_name%
+  - source: /en-US/github.com/octarine-public/*.json
+    translation: /%locale%/github.com/octarine-public/%original_file_name%
