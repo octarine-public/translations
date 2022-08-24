@@ -1,10 +1,10 @@
 {
 	"SwitchPanelAbilities":"",
-	"СomboClone":"Сombo Clone",
+	"ComboClone":"Combo Clone",
 	"ShieldMenuDistance":"Distance",
 	"DangerRange":"Danger Range",
 	"OrbwalkUnitsModes":"Orbwalk (Hit & Run)",
-	"AbilitiesLotusOrb":"Lotus оrb",
+	"AbilitiesLotusOrb":"Lotus Orb",
 	"COMBO_LINKENS_BREAK":"Linken's sphere",
 	"AbilitiesLinkenSphere":"Linken's sphere",
 	"TRANSLATE_KEY_ESCAPE_TOOLTIP":"In case you are attacked and you need\nto react quickly, use this mode.\nThe hero uses the selected items and abilities\nat the enemy or if it is a blink or\nsimilar ability will be used in the direction of your cursor",
