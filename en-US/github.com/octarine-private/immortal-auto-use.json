@@ -1,0 +1,16 @@
+{
+	"AU_Buffs_v2": "Buffs",
+	"AU_Blink_v2": "Blink",
+	"AU_Shield_v2": "Shield",
+	"AU_Debuffs_v2": "Debuff",
+	"AU_Disable_v2": "Disable",
+	"AU_Special_v2": "Special",
+	"AU_ManaRestore_v2": "Mana restore",
+	"AU_HealthRestore_v2": "Health restore",
+	"AU_Buff_Self": "Self only",
+	"AU_Debuff_Self": "Self only",
+	"AU_Shield_v2_Self": "Self only",
+	"AU_ManaRestore_v2_Self": "Self only",
+	"AU_HealthRestore_v2_Self": "Self only",
+	"AU_HealthRestore_v2_SelfBottle": "Self only"
+}
