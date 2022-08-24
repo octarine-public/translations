@@ -5,5 +5,12 @@
 	"New Height offset": "Height offset",
 	"Show positions": "Show positions",
 	"Limit": "Limit",
-	"Enable if you want to change the size or position of notifications": "Enable if you want to change the size or position of notifications"
+	"Enable if you want to change the size or position of notifications": "Enable if you want to change the size or position of notifications",
+	"Menu": "Menu",
+	"Language": "Language",
+	"Menu Bind": "Menu Bind",
+	"Humanizer": "Humanizer",
+	"English": "English",
+	"Russian": "Russian",
+	"Chinese": "Chinese"
 }
