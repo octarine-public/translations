@@ -1,0 +1,18 @@
+{
+	"Mid": "Mid",
+	"Easy": "Easy",
+	"Jungle": "Jungle",
+	"Hard": "Hard",
+	"None": "None",
+	"Strength": "Strength",
+	"Agility": "Agility",
+	"Intellect": "Intellect",
+	"Enemy jungle": "Enemy jungle",
+	"Heroes": "Heroes",
+	"State": "State",
+	"Auto Ban": "Auto Ban",
+	"Auto Pick": "Auto Pick",
+	"Select lane": "Select lane",
+	"Auto lane marker": "Auto lane marker",
+	"Primary attribute hero": "Primary attribute hero"
+}
