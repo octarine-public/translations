@@ -1,8 +1,8 @@
 {
-	"Bars": "Бары",
-	"State": "Состояние",
-	"Display in fog": "Показ в тумане",
-	"Text color": "Цвет текста",
+	"Bars": "Bars",
+	"State": "State",
+	"Display in fog": "Display in fog",
+	"Text color": "Text color",
 	"Inside color": "Inside color",
 	"Outside color": "Outside color",
 	"Outline color": "Outline color",
@@ -19,8 +19,8 @@
 	"МП/MaxMP/%": "МП/MaxMP/%",
 	"Health": "Health",
 	"Mana": "Mana",
-	"Reset": "Сбросить",
-	"Display mode": "Режим отображения",
+	"Reset": "Reset",
+	"Display mode": "Display mode",
 	"Only in fog": "Only in fog",
 	"Only if visible": "Only if visible",
 	"Always (fog war / if visible)": "Always (fog war / if visible)"
