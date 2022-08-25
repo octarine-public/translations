@@ -1,0 +1,23 @@
+{
+	"Show cooldowns when selecting a unit\non its abilities/items": "Show cooldowns when selecting a unit\non its abilities/items",
+	"No Mana": "No Mana",
+	"Cooldowns Panel": "Cooldowns Panel",
+	"By level": "By level",
+	"By recharge": "By recharge",
+	"State": "State",
+	"Items": "Items",
+	"Reset": "Reset",
+	"Abilities": "Abilities",
+	"Hide items": "Hide items",
+	"Hide abilities": "Hide abilities",
+	"Show charge": "Show charge",
+	"Show Level": "Show Level",
+	"Passive items": "Passive items",
+	"Hide by item cost": "Hide by item cost",
+	"Reset settings": "Reset settings",
+	"Reset all settings - Cooldowns": "Reset all settings - Cooldowns",
+	"Hide passive items that\nhave no cooldown": "Hide passive items that\nhave no cooldown",
+	"Hide an item if its cost is less": "Hide an item if its cost is less",
+	"Select items for hide on hero/unit": "Select items for hide on hero/unit",
+	"Select abilities for hide on hero/unit": "Select abilities for hide on hero/unit"
+}
