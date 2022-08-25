@@ -1,0 +1,23 @@
+{
+	"Show cooldowns when selecting a unit\non its abilities/items": "Показувати перезарядження при виборі юніта на його здібностях/предметах",
+	"No Mana": "Нема мани",
+	"Cooldowns Panel": "Панель перезавантажень",
+	"By level": "За рівнем",
+	"By recharge": "По перезарядці",
+	"State": "Стан",
+	"Items": "Предмети",
+	"Reset": "Скинути",
+	"Abilities": "Уміння",
+	"Hide items": "Приховати предмети",
+	"Hide abilities": "Приховати уміння",
+	"Show charge": "Показувати заряди",
+	"Show Level": "Показати рівень",
+	"Passive items": "Пасивні предмети",
+	"Hide by item cost": "Приховати за вартістю предмета",
+	"Reset settings": "Скинути налаштування",
+	"Reset all settings - Cooldowns": "Скинути всі налаштування - Перезарядження",
+	"Hide passive items that\nhave no cooldown": "Приховати пасивні предмети, які\nне мають перезарядження",
+	"Hide an item if its cost is less": "Приховати предмет, якщо його вартість менше",
+	"Select items for hide on hero/unit": "Виберіть предмети, для приховування на герої/юніті",
+	"Select abilities for hide on hero/unit": "Виберіть уміння, для приховування на герої/юніті"
+}
